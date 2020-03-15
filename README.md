@@ -1,5 +1,6 @@
 # BURLAP'S FAVORITE STUFF:
 
+I use or used all of these things personally, this is here for when people ask me "Burlap, what should I do/get"
 
 ## AUDIO:
 
@@ -47,6 +48,7 @@ The Prince | Niccolò Machiavelli
 The Federalist Papers | Alexander Hamilton, James Madison, John Jay
 Industrial Society and Its Future | Theodore J. Kaczynski
 Two Treatises of Government | John Locke
+The Heart of the Buddha's Teaching | Thich Nhat Hanh
 With the Old Breed | Eugene Sledge
 American Psycho | Bret Easton Ellis
 
@@ -60,10 +62,19 @@ Star Trek: The Next Generation | 1987
 Star Trek: Deep Space Nine | 1993
 Initial D | 1998
 
+## PLAYING:
+
+[See my game reviews here](https://store.steampowered.com/curator/36232137-BurlapTV/)
+
+## LISTENING:
+
+[See some of my music playlists here](https://www.youtube.com/channel/UCtFZaidA8G-g3URGfaAh8oA/playlists)
+
 ## MISC:
 
 Product        | What is it?                 |
 ---------------| ----------------------------|
 CamelBak Eddy+ | Water Bottle
+Mechanix Gloves | Hand socks
 Magpul DAKA Essential Slim | Smol wallet
 Emerson Knives | Best pocket knives, buy it for life.
