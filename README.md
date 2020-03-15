@@ -18,6 +18,7 @@ RODE PSA1 | Mic boom (depends on mic type & mounting situation, others are bette
 Product       | What is it?                    |
 --------------| -------------------------------|
 Logitech G500 | I have used this mouse since 2009, it's perfect.
+Steam Controller | Surprisingly awesome.
 Thinkpad X250 | My favorite daily laptop.
 Arctic F12/F14 | Case fans, good airflow to noise to price ratio.
 HP VH240A | Solid low cost IPS monitor
