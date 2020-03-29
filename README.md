@@ -17,9 +17,9 @@ RODE PSA1 | Mic boom (depends on mic type & mounting situation, others are bette
 
 Product       | What is it?                    |
 --------------| -------------------------------|
-Logitech G500 | I have used this mouse since 2009, it's perfect.
-Steam Controller | Surprisingly awesome.
-Thinkpad X250 | My favorite daily laptop.
+[Logitech G500](https://i.imgur.com/vs5m01S.jpg) | I have used this mouse since 2009, it's perfect.
+[Steam Controller](https://store.steampowered.com/app/353370/Steam_Controller/) | Surprisingly awesome.
+[Thinkpad X250](https://www.lenovo.com/us/en/laptops/thinkpad/x-series/x250/) | My favorite daily laptop.
 [Pi-hole](https://pi-hole.net/) | Network wide ad blocking, setup is relatively user friendly for non-techies.
 Cherry MX Reds | The pleb pick, but also probably my all around favorite mechanical switch.
 Arctic F12/F14 | Case fans, good airflow to noise to price ratio.
